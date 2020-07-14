@@ -4,6 +4,6 @@
 We will build a simple logistic regression algorithm that can correctly classify two things.
 
 1.   Is the applicant eligible for Financial aid.
-2.   If yes, then how much should be the waiver.
+2.   And how much should be the waiver.
 
 I've also uploaded the demo financial aid dataset. 
