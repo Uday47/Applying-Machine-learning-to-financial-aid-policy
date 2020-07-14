@@ -21,15 +21,15 @@ hough there can be exceptions who study on scholarships, this attribute can prov
 
 **About the dataset**
 
-*Name*
+*Name:*
 
 This column gives the names of the applicants who’ve applied for the financial aid. It has 100 male and 100 female unique names.
 
-*Electricity Bill*
+*Electricity Bill:*
 
 This column gives the electricity bill of the respective applicant. In this dataset, the values range from 0-5000 INR
 
-*Income Class*
+*Income Class:*
 
 This column provides the info about the income class the applicant belongs to. There are many complex Socio-Economic scales out there. But for simplicity we’ve used the following scale (Family income in INR).
 
@@ -45,18 +45,18 @@ This column provides the info about the income class the applicant belongs to. T
 
 · Rich upper bracket (6) - 55 lacs to 1.5 crore
 
-*School fees*
+*School fees:*
 
 This column gives the information about the School fees the applicant pays to the institution they study at. The scale ranges from 0-1 Lac INR
 
-*Exception*
+*Exception:*
 
 This column gives info whether the applicant is an exception. (Special cases are when the income of the candidate is relatively high but they show genuine need of aid financial aid. Example: All the money is being spent on an ailing family member.
 
-*Aid_eligibility*
+*Aid_eligibility:*
 
 This column provides information whether the candidate eligible for aid or not?
 
-*Aid_percent*
+*Aid_percent:*
 
 This column gives the grant amount the applicant has received (percentage of amount discounted from the fees).
