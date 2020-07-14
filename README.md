@@ -7,7 +7,9 @@ We will build a simple logistic regression algorithm that can correctly classify
 2.   And how much should be the waiver.
 
 I've also uploaded the demo financial aid dataset. 
+
 **Financial Aid policy**
+
 It and not abused by people who think of it as an entitlement. This report suggests a financial aid model implementation that can improve the chances of identifying the genuineness of the applicant. The report suggests slight modifications to the existing aid model to make it more effective. The candidates are asked to submit their recent electricity bill, school fees amount along with an income certificate. Collectively, these documents can add much more weight to the genuineness of candidate’s need. Those who can’t submit these can write a mail to the office or can follow the existing model. The reason I chose these attributes is
 
 1. Electricity Bill – I chose electricity consumption bills over other bills like water bill and LPG bill because most of the rural areas have access to electricity than they have to tap water and LPG. There are many countries that use electricity consumption data for socio-economic classification.
